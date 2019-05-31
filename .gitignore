@@ -1,1 +1,9 @@
 node_modules
+Members.js
+README.md
+public/about.html
+public/index.html
+public/css/style.css
+routes/api/members.js
+views/index.handlebars
+views/layouts/main.handlebars
